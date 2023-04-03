@@ -64,6 +64,13 @@ In this repository, I will create simple story app with multiple choices. And al
 
 
   - [x] Project Setup
+  - [x] Story Model
+  - [x] StoryBrain Model
+  - [x] Create UpdateUI Function
+  - [x] Create NextStory Function in StoryBrain
+  - [x] Create logic for NextStory Function
+  - [x] Implement Stories in StoryBrain
+  - [x] Project Complete
   
   
 <p align="center">(Still working on it...)</p>
